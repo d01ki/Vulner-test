@@ -1,0 +1,5 @@
+.env
+couchdb3_data/
+minio_data/
+redis_data/
+*.log

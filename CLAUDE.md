@@ -12,3 +12,9 @@
 1. **環境起動:**
    ```bash
    docker-compose up -d
+   ```
+2. **初期設定:**
+   - ブラウザで `http://localhost:10000` にアクセス。
+   - `.env` で設定した管理者資格情報（admin@example.com / AdminPassword123!）を使用してログイン。
+3. **検証の実施:**
+   - `Pentest-mcp` のツール群を使用して、スキャンやExploitの検証を行う。
